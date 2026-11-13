@@ -1,0 +1,6 @@
+{
+  "name": "RozgarHub - Sahi Kaam, Sahi Daam",
+  "description": "Kanpur's Home Construction & Repair App. Download the 1.2 MB Android APK or open the web app for verified mistri, electricians, plumbers, and painters at transparent rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
